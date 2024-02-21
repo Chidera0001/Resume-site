@@ -137,6 +137,9 @@ p, li {
 #impo {
     text-align: center;
 }
+#skills{
+    text-align: left;
+}
 
 /* Responsive design */
 @media (max-width: 768px) {
